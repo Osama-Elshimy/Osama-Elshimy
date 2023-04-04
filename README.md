@@ -1,20 +1,55 @@
-- 👋 Hi, I’m Osama-Elshimy
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on front end projects
-- 📫 How to reach me osama.elshimy.o.e@gmail.com
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Osama Elshimy</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Web+Developer.;Always+Learning+New+Things." alt="Typing SVG" /></a>
+</p> 
+
+## 🙋‍♂️ About Me
+
+<img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+- 🌱 I’m currently learning **Node.js**
+
+
+- 📫 How to reach me **osama.elshimy.o.e@gmail.com**
+
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+
+
+<br/>
+<br/>
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+  <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+</p>
+
+</br>
+</br>
+
+
+## Connect with me:
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/osama-elshimy-639ab6223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 <!---
 Osama-Elshimy/Osama-Elshimy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Languages and Tools:
-
-[ <img src="https://user-images.githubusercontent.com/90342783/196637312-c72b4ded-5770-4cf1-a9d2-1ca752c2ab1c.png" alt="HTML logo" width="50" height="50" /> ](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[ <img src="https://user-images.githubusercontent.com/90342783/196639002-68ad14b3-738c-4af7-bc52-fdb18001d87a.png" alt="CSS logo" width="50" height="50" /> ](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[ <img src="https://user-images.githubusercontent.com/90342783/196640966-bb0cb384-d978-4eec-a3b9-126520ed5980.png" alt="JS logo" width="50" height="50" /> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[ <img src="https://user-images.githubusercontent.com/90342783/196641367-b11248d5-30d0-487d-9433-777e76f637cd.png" alt="Git logo" width="50" height="50" /> ](https://git-scm.com/)
-[ <img src="https://user-images.githubusercontent.com/90342783/196641675-201d8969-a11d-426e-963c-7e8c948046f0.png" alt="Python logo" width="50" height="50" /> ](https://www.python.org/)
 
 

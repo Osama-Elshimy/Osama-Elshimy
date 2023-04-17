@@ -16,7 +16,7 @@
 - 📫 How to reach me **osama.elshimy.o.e@gmail.com**
 
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Front-end Projects**
 
 
 

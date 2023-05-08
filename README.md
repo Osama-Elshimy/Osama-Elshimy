@@ -3,20 +3,20 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Osama Elshimy</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-end+Web+Developer.;Always+Learning+New+Things." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer.;Always+learning+new+things." alt="Typing SVG" /></a>
 </p> 
 
 ## 🙋‍♂️ About Me
 
 <img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **SCSS**
 
 
 - 📫 How to reach me **osama.elshimy.o.e@gmail.com**
 
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 
 
@@ -33,6 +33,7 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>

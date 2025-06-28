@@ -10,7 +10,7 @@
 
 <img width="250" align="right"  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Rust**
 
 
 - 📫 How to reach me **osama.elshimy.o.e@gmail.com**

@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Osama Elshimy</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer.;Always+learning+new+things." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Always+learning+new+things." alt="Typing SVG" /></a>
 </p> 
 
 ## 🙋‍♂️ About Me
